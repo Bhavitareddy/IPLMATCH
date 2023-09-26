@@ -5,7 +5,7 @@ import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css'
 import {Component} from 'react'
 import TeamCard from '../TeamCard'
 
-class Name extends Component {
+class Home extends Component {
   state = {
     teamsData: [],
     isLoading: true,
