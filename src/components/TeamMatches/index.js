@@ -1,9 +1,9 @@
 // Write your code here
 import "./index.css"
-import Loader form "react-loader-spinner"
+import Loader from "react-loader-spinner"
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css"
 import {Component} from "react"
-import LatestMatch from "../LstestMatch"
+import LatestMatch from "../LatestMatch"
 import MatchCard from "../MatchCard"
 
 class TeamMatches extends Component{

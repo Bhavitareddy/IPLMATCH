@@ -1,6 +1,6 @@
 // Write your code here
 import './index.css'
-import {Link} from 'react -router-dom'
+import {Link} from 'react-router-dom'
 import {Component} from 'react'
 
 class TeamCard extends Component {
